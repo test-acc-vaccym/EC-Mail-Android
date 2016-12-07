@@ -266,9 +266,9 @@ public class K9 extends Application {
      */
     public static final String FOLDER_NONE = "-NONE-";
 
-    public static final String LOCAL_UID_PREFIX = "K9LOCAL:";
+    public static final String LOCAL_UID_PREFIX = "ECLOCAL:";
 
-    public static final String REMOTE_UID_PREFIX = "K9REMOTE:";
+    public static final String REMOTE_UID_PREFIX = "ECREMOTE:";
 
     public static final String IDENTITY_HEADER = K9MailLib.IDENTITY_HEADER;
 

@@ -10,8 +10,8 @@
     <string name="shortcuts_title">EC Mail Accounts</string>
     <string name="unread_widget_label">EC Mail Unread</string>
 
-    <string name="remote_control_label">EC Mail Mail remote control</string>
-    <string name="remote_control_desc">Allows this application to control K-9 Mail activities and settings.</string>
+    <string name="remote_control_label">EC Mail remote control</string>
+    <string name="remote_control_desc">Allows this application to control EC Mail activities and settings.</string>
 
 
     <!-- Used in the about dialog -->
@@ -25,6 +25,15 @@
     <string name="accounts_welcome"><![CDATA[
 <p><br><br>
 EC Mail App is a secure email client for Android Mobile Operating System, developed by IT Services Division (ITSD) of Electronics Corporation of India Limited (ECIL), a Govt. of India (Dept. of Atomic Energy) Enterprise. This App must be used by ECIL employees only.
+<br><br><br>
+<b>Features:</b><br><br>
+• Supports both POP3 and IMAP protocols for incoming mails. <br><br>
+• Supports SSL/TLS and STARTTLS encryption mechanisms for both incoming & outgoing mails. <br><br>
+• Pre-Configured network connection parameters for IMAPS, POP3 & SMTPS. <br><br>
+• Automatic Folder Sync & Near Real-time Notifications. <br><br>
+• Option to add multiple EC Mail accounts with Unified Inbox. <br><br>
+• Built-in Search & Sort options. <br><br>
+• Saving attachments to Memory/SD Card.<br><br>
 </p>
     ]]></string>
 
